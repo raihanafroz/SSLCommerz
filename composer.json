@@ -1,0 +1,19 @@
+{
+  "name": "rat/ssl-commerz",
+  "description": "test integration of SSLCommerz",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Raihan Afroz",
+      "email": "raihanafroz9@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "SSLCommerz\\": "src"
+    }
+  }
+}
