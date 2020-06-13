@@ -1,4 +1,12 @@
-#SSLCommerz - Laravel Library
-Tags: Payment Gateway, SSLCommerz
+### SSLCommerz - Laravel Library
 
-Requires: Laravel >= 5.6 
+__Tags:__ Payment Gateway, SSLCommerz
+
+__Requires:__  Laravel >= 5.6 
+
+
+
+
+#### Instructions:
+
+* __Step 1:__ Download and extract the library files.
